@@ -14,7 +14,7 @@
 
 
 <a href="https://play.google.com/store/apps/details?id=com.swetajain.jainbhajan">
-<img src="https://play-lh.googleusercontent.com/9Yu-TJ6Mceq871DLhBsSaejvln-jMC5pol-PqTbC1ZokgAsdPJ6SuXkqxLPJjMFYgGc=s180-rw" alt="Jain Geetmala" width=48 height=48>
+<img src="https://play-lh.googleusercontent.com/9Yu-TJ6Mceq871DLhBsSaejvln-jMC5pol-PqTbC1ZokgAsdPJ6SuXkqxLPJjMFYgGc=s180-rw" alt="Jain Geetmala" width=52 height=52>
 </a>
 <h6 >Jain Geetmala</h6>
 
@@ -23,7 +23,5 @@
 </a>
 <h6 >Scanner Pro</h6>
 
-
-![Jain Geetmala](https://play-lh.googleusercontent.com/9Yu-TJ6Mceq871DLhBsSaejvln-jMC5pol-PqTbC1ZokgAsdPJ6SuXkqxLPJjMFYgGc=s180-rw) ![Scanner Pro](https://play-lh.googleusercontent.com/ChkFz2t_2kpmYpjpgqR5N-fOFwVUWWmT6wBCpeMZwb4bYTnmTjZdqQsZnvEBB0CRmQ=s180-rw)
 
 Check out my page  [Sweta Jain](https://swetathebest.github.io/) 
