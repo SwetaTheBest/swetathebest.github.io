@@ -2,10 +2,10 @@
 
 ```markdown
 
-- **[CV]**(https://swetathebest.github.io/cv/)
-- **[About me]**(https://swetathebest.github.io/about/)
-- **[Blog]**(https://swetathebest.github.io/blog/)
-- **[Work]**(https://swetathebest.github.io/works/)
+- [CV](https://swetathebest.github.io/cv/)
+- [About me](https://swetathebest.github.io/about/)
+- [Blog](https://swetathebest.github.io/blog/)
+- [Work](https://swetathebest.github.io/works/)
 
 ```
 
