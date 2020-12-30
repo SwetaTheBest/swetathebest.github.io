@@ -1,4 +1,5 @@
-# Welcome to Sweta Jain's Github ![android](https://simpleicons.org/icons/android.svg/200/200)
+# Welcome to Sweta Jain's Github 
+<img src="https://simpleicons.org/icons/simpleicons.svg" alt="Simple Icons" width=64 height=64>
 
 
 
