@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://simpleicons.org/icons/android.svg" alt="Simple Icons" width=32 height=32 >
 <p align="left"> 
-  # Welcome to Sweta Jain's Github 
+## Welcome to Sweta Jain's Github 
 
 
 
