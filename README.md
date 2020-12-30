@@ -1,5 +1,5 @@
-# Welcome to Sweta Jain's Github 
-<img src="https://simpleicons.org/icons/android.svg" alt="Simple Icons" width=64 height=64 color = "#3DDC84" >
+<img src="https://simpleicons.org/icons/android.svg" alt="Simple Icons" width=32 height=32 > # Welcome to Sweta Jain's Github <img src="https://simpleicons.org/icons/android.svg" alt="Simple Icons" width=32 height=32 >
+
 
 
 
