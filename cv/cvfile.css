@@ -1,11 +1,11 @@
 /* Write CSS Here */
 * {
 	margin: 0;
-	padding: 0;
+	padding: 10;
 	box-sizing: border-box;
 }
 body {
-	background-color: rgb(253, 254, 255);
+	background-color: rgb(250, 200, 255);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -14,7 +14,7 @@ body {
 	width: 50%;
 	max-width: 1000px;
 	min-height: 100px;
-	background-color: rgb(245, 239, 231);
+	background-color: rgb(245, 239, 201);
 	margin: 0px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
