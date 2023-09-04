@@ -9,7 +9,25 @@ title: Play Store Apps Utility
 	<p><image src="https://lh3.googleusercontent.com/9Yu-TJ6Mceq871DLhBsSaejvln-jMC5pol-PqTbC1ZokgAsdPJ6SuXkqxLPJjMFYgGc=s360-rw" 
 		  alt="Jain Geetmala" height = "100" width= "100"></p>
 
- <p></p> <a href="mailto:swetajain04@gmail.com?Subject=Delete Account REquest" target="_blank">
+ <p></p> <a href="mailto:swetajain04@gmail.com?Subject=Delete Account Request" target="_blank">
 Delete My Account</a></p>
+	    <!-- HTML button to send an email -->
+    <button id="sendEmailButton">Delete my Jain Geetmala account</button>
+
+    <script>
+        // JavaScript to handle the button click event
+        document.getElementById('sendEmailButton').addEventListener('click', function () {
+            // Define the email address, subject, and body
+            var emailAddress = 'swetajain04@gmail.com';
+            var subject = 'Hello';
+            var body = 'Please delete my User account';
+
+            // Create a mailto URL with the email details
+            var mailtoUrl = 'mailto:' + emailAddress + '?subject=' + subject + '&body=' + body;
+
+            // Open the default email client with the mailto URL
+            window.location.href = mailtoUrl;
+        });
+    </script>
 	  
 </div><!-- /.blurb -->
