@@ -11,7 +11,7 @@ body {
 	align-items: center;
 }
 .full {
-	width: 50%;
+	width: 100%;
 	max-width: 1000px;
 	min-height: 100px;
 	background-color: rgb(245, 239, 201);
