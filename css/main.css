@@ -1,41 +1,75 @@
+/* Reset some default styles and set common styles */
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
 }
+
+/* Define the container style */
+.container {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto; /* Center the container horizontally */
+}
+
+/* Style for profile image */
+.profile-image {
+    max-width: 150px;
+    margin-right: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Header style */
+h1 {
+    color: #333;
+    font-size: 2.5em; /* Adjust the font size as needed */
+}
+
+/* Navigation and footer styles */
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    padding: 0;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
+
+/* General paragraph styles */
 p {
-    font-size: 1.5em;
+    font-size: 1.2em; /* Adjust the font size as needed */
     line-height: 1.4em;
     color: #333;
 }
+
+/* Footer style */
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 0.8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+/* List of posts style */
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1.2em; /* Adjust the font size as needed */
 }
 
 ul.posts li {
