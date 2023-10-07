@@ -1,14 +1,14 @@
 /* Reset some default styles and set common styles */
 body {
     width: 100%;
-    padding: 0;
+    padding: 20px;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
 }
 
 /* Define the container style */
 .container {
-    width: 100%;
+    width: 90%;
     background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
