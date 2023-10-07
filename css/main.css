@@ -27,7 +27,7 @@ body {
 
 /* Header style */
 h1 {
-    color: #h00b51;
+    color: ##F8EFBA;
     font-size: 2.5em; /* Adjust the font size as needed */
 }
 
@@ -46,7 +46,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #F8EFBA;
 }
 
 a:hover {
@@ -57,12 +57,12 @@ a:hover {
 p {
     font-size: 1.2em; /* Adjust the font size as needed */
     line-height: 1.4em;
-    color: #45aaf2;
+    color: #F8EFBA;
 }
 
 /* Footer style */
 footer {
-    border-top: 1px solid #fc5c65;
+    border-top: 1px solid #F8EFBA;
     font-size: 0.8em;
 }
 
