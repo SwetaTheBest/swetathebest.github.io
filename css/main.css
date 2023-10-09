@@ -68,7 +68,7 @@ a:hover {
 }
 
 /* General paragraph styles */
-p {
+p, li, ul {
     font-size: 1.2em; /* Adjust the font size as needed */
     line-height: 1.4em;
     color:#6D214F;
