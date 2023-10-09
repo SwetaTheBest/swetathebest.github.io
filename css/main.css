@@ -8,7 +8,7 @@ body {
 /* Define the container style */
 .main_container {
     width: 90%;
-    background-color: #ffffff;
+    background-color: #D6A2E8;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -17,7 +17,7 @@ body {
 /* Define the container style */
 .container {
     width: 90%;
-    background-color: #B33771;
+    background-color: #CAD3C8;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -35,12 +35,12 @@ body {
 
 /* Header style */
 h1 {
-    color: #F8EFBA;
+    color: #6D214F;
     font-size: 2.5em; /* Adjust the font size as needed */
 }
 /* Header style */
 h2 {
-    color: #BDC581;
+    color: #6D214F;
     font-size: 2em; /* Adjust the font size as needed */
 }
 /* Navigation and footer styles */
