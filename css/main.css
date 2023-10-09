@@ -17,7 +17,7 @@ body {
 /* Define the container style */
 .container {
     width: 90%;
-    background-color: #000000;
+    background-color: #B33771;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -52,6 +52,7 @@ nav ul, footer ul {
 }
 
 nav ul li, footer ul li {
+    color: #F8EFBA;
     display: inline;
     margin-right: 20px;
 }
