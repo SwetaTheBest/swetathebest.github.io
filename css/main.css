@@ -20,6 +20,7 @@ body {
     background-color: #CAD3C8;
     padding: 20px;
     border-radius: 10px;
+    
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin: 20px auto; /* Center the container horizontally */
 }
@@ -28,7 +29,7 @@ body {
 .profile-image {
     max-width: 150px;
     margin-right: 20px;
-    border: 2px solid    color:#6D214F;
+    border: 20px solid    color:#6D214F;
     border-radius: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
@@ -54,6 +55,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
        padding: 20px;
     border-radius: 10px;
+    border-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin: 20px auto;
     color: #F8EFBA;
