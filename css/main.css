@@ -5,11 +5,19 @@ body {
     font-family: Arial, sans-serif;
     background-color: #a55eea;
 }
-
+/* Define the container style */
+.main_container {
+    width: 90%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto; /* Center the container horizontally */
+}
 /* Define the container style */
 .container {
     width: 90%;
-    background-color: #6D214F;
+    background-color: #000000;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -20,14 +28,14 @@ body {
 .profile-image {
     max-width: 150px;
     margin-right: 20px;
-    border: 2px solid #8854d0;
+    border: 2px solid    color:#6D214F;
     border-radius: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
 /* Header style */
 h1 {
-    color: ##F8EFBA;
+    color: #F8EFBA;
     font-size: 2.5em; /* Adjust the font size as needed */
 }
 
@@ -46,7 +54,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #F8EFBA;
+    color: #6D214F;
 }
 
 a:hover {
@@ -57,7 +65,7 @@ a:hover {
 p {
     font-size: 1.2em; /* Adjust the font size as needed */
     line-height: 1.4em;
-    color: #F8EFBA;
+    color:#6D214F;
 }
 
 /* Footer style */
@@ -74,4 +82,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+        color:#6D214F;
 }
