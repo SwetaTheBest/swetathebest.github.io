@@ -53,6 +53,7 @@ nav ul, footer ul {
 }
 
 nav ul li, footer ul li {
+    background-color: #BDC581;
        padding: 20px;
     border-radius: 10px;
     border-color: #ffffff;
@@ -60,7 +61,7 @@ nav ul li, footer ul li {
     margin: 20px auto;
     color: #F8EFBA;
     display: inline;
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-right: 20px;
 }
 
