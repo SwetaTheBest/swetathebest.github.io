@@ -38,7 +38,11 @@ h1 {
     color: #F8EFBA;
     font-size: 2.5em; /* Adjust the font size as needed */
 }
-
+/* Header style */
+h2 {
+    color: #BDC581;
+    font-size: 2em; /* Adjust the font size as needed */
+}
 /* Navigation and footer styles */
 nav ul, footer ul {
     font-family: 'Helvetica', 'Arial', sans-serif;
