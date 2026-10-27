@@ -1,64 +1,122 @@
-# 🌟 Sweta Jain 
+# Sweta Jain
 
-Welcome to my personal portfolio website built with **Flutter Web**!  
-This is a showcase of my work as a **Flutter Developer**, **App Creator**, and **Music Enthusiast** 🎶
+<p align="center">
+  <a href="https://swetathebest.github.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0A7EA4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live portfolio" />
+  </a>
+  <a href="https://swetathebest.github.io/cv/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CV-Resume-FF6B6B?style=for-the-badge" alt="Resume" />
+  </a>
+  <a href="https://github.com/SwetaTheBest" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+</p>
 
-🚀 Visit the Live Site: [swetathebest.github.io](https://swetathebest.github.io)
+Hi! I'm Sweta Jain, a cross-platform app developer with 5+ years of experience building scalable, user-focused mobile and web experiences with Flutter.
 
----
+I enjoy turning ideas into polished products, with strong emphasis on clean architecture, thoughtful UI/UX, and maintainable code. My work spans app development, product design thinking, and performance-focused engineering.
 
-## 🧑‍💻 About Me
+## Highlights
 
-Hi, I'm **Sweta Jain**, a cross-platform app developer with 5+ years of experience using **Flutter** and a passion for clean architecture, UI/UX, and impactful apps. I've published multiple apps on the Play Store, built from scratch with ❤️ and logic.
+- 5+ years of experience in Flutter and cross-platform app development
+- Published apps on Google Play across multiple categories
+- Strong focus on clean architecture, responsive design, and mobile-first UX
+- Experience with app publishing, product presentation, and portfolio/site development
+- Passion for building impactful digital products and creative experiences
 
----
+## Quick Links
 
-## 📱 Published Apps
+- Portfolio: https://swetathebest.github.io
+- Resume / CV: https://swetathebest.github.io/cv/
+- Email: mailto:swetajain04@gmail.com
+- LinkedIn: https://linkedin.com/in/sweta-the-best
+- GitHub: https://github.com/SwetaTheBest
+- Stack Overflow: https://stackoverflow.com/users/6921031/sweta-jain
 
-Here are a few featured apps (click icons to open on Google Play):
+## About Me
 
-| App | Icon | Link |
-|-----|------|------|
-| **Jain Geetmala** | ![](https://lh3.googleusercontent.com/9Yu-TJ6Mceq871DLhBsSaejvln-jMC5pol-PqTbC1ZokgAsdPJ6SuXkqxLPJjMFYgGc=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.jainbhajan) |
-| **Scanner Pro** | ![](https://lh3.googleusercontent.com/ChkFz2t_2kpmYpjpgqR5N-fOFwVUWWmT6wBCpeMZwb4bYTnmTjZdqQsZnvEBB0CRmQ=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.scannerpro) |
-| **Photo Wall** | ![](https://lh3.googleusercontent.com/__9HnS3158nPFLtpR5NnMpQgoTd9IjhvbrIRS3GJ6diQAT-jv3vKi2mhtaDqDZUOjiA=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.wallpapers) |
-| **Fruity** | ![](https://lh3.googleusercontent.com/I3fxCu_NWhPKiFJ9jNhh6eIVts5CRx3MBsRf3TOSZR9EBRAHGntBwTOnxzLt-UijBg=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.alphafruits) |
-| **News Now** | ![](https://lh3.googleusercontent.com/CHKWB0JJcWbO4PPvjt30iRH8XFKsKN9o5e-0EGHsEba-RCdzPVsCFNE0JVt7iJ5TTvFa=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.newsnow) |
-| **House Rent Portal** | ![](https://lh3.googleusercontent.com/aubdH5CmxlvPOojQEeGSdi7WcAO4-b3UrzLRx5cLbO4VvxW4ECXt4bKVsUgO33wJjEY=s100) | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.houserentportal) |
+I'm a Flutter Developer and App Creator with hands-on experience in designing and delivering apps that are functional, elegant, and easy to use. I work with a practical mindset: build clean solutions, optimize the user experience, and create products that feel polished from first launch onward.
 
----
+My interests include:
 
-## 🎬 Featured Projects
+- Flutter and Dart development
+- Clean Architecture and maintainable codebases
+- UI/UX design for mobile and web experiences
+- App publishing and deployment workflows
+- Music, creativity, and continuous learning
 
-| 🔹 Space Race (GIF Demo) |
-|--------------------------|
-| ![](assets/gifs/space-race.gif) |
+## Featured Apps
 
-> More GIF demos coming soon! ✨
+Here are a few of my published apps:
 
----
+| App | Category | Link |
+| --- | --- | --- |
+| Jain Geetmala | Music / Entertainment | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.jaingeetmala) |
+| Scanner Pro | Productivity | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.scannerpro) |
+| Photo Wall | Photo / Gallery | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.photowall) |
+| Fruity | Lifestyle / Utility | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.fruity) |
+| News Now | News / Media | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.newsnow) |
+| House Rent Portal | Real Estate / Utility | [Play Store](https://play.google.com/store/apps/details?id=com.swetajain.houserentportal) |
 
-## 🎯 Tech Stack
+## Featured Projects
 
-- **Flutter 3.22** (Web)
+### Space Race
+
+A Flutter web demo showcasing interactive UI and motion-driven presentation.
+
+![Space Race Demo](assets/gifs/space-race.gif)
+
+> More demos and project showcases are coming soon.
+
+## Tech Stack
+
+- Flutter 3.x
+- Dart
+- Kotlin
+- Java
+- JavaScript / HTML / CSS
+- Provider
 - Clean Architecture
-- Provider (State Management)
-- Theme Switch (Light / Dark)
-- Responsive Layouts
-- GitHub Pages for deployment
+- GitHub Pages
+- Responsive Web Design
+- UI/UX-focused product development
+
+## Repository Structure
+
+```text
+.
+├── README.md
+├── index.html
+├── _config.yml
+├── about/
+├── blog/
+├── css/
+├── cv/
+│   ├── index.html
+│   └── cvfile.css
+├── images/
+├── works/
+├── utils/
+└── assets/
+```
+
+## Contact
+
+- Email: [swetajain04@gmail.com](mailto:swetajain04@gmail.com)
+- GitHub: [@SwetaTheBest](https://github.com/SwetaTheBest)
+- LinkedIn: [Sweta Jain](https://linkedin.com/in/sweta-the-best)
+- Stack Overflow: [Sweta Jain](https://stackoverflow.com/users/6921031/sweta-jain)
+
+## Resume
+
+You can view the latest resume/CV here:
+
+- https://swetathebest.github.io/cv/
+
+This page reflects the latest profile and experience summary and is kept aligned with the portfolio site.
 
 ---
 
-## 📬 Contact
-
-📧 Email: [swetajain04@gmail.com](mailto:swetajain04@gmail.com)
-
-Connect with me on:
-
-[![GitHub](assets/images/github.png)](https://github.com/SwetaTheBest)
-[![LinkedIn](assets/images/linkedin.png)](https://linkedin.com/in/sweta-the-best)
-[![StackOverflow](assets/images/stalkoverflow.png)](https://stackoverflow.com/users/6921031/sweta-jain)
-
----
-
-
+<p align="center">
+  <i>Built with ❤️ for clean product experiences and modern app development.</i>
+</p>
