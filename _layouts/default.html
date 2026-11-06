@@ -1,32 +1,54 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-				<li><a href="/works">Works</a></li>
-				<li><a href="/utils">Utils</a></li>
-	    		</ul>
-			</nav>
-			<div class="main_container">
-			
-			{{ content }}
-		
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:swetajain04@gmail.com">Mail me</a></li>
-	        		<li><a href="https://github.com/SwetaTheBest">Visit my GitHub</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f7f4" />
+    <meta
+      name="description"
+      content="Sweta Jain — Senior AI Engineer building Generative AI, Agentic AI and RAG applications. Explore selected projects and engineering work."
+    />
+    <meta property="og:title" content="Sweta Jain | Senior AI Engineer" />
+    <meta
+      property="og:description"
+      content="Applied AI, agentic workflows, RAG and cloud-native engineering."
+    />
+    <title>{{ page.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="main_container">{{ content }}</div>
+    <footer>
+      <ul>
+        <li>© {{ site.time | date: "%Y" }} Sweta Jain</li>
+        <li><a href="mailto:swetajain04@gmail.com">Email</a></li>
+        <li>
+          <a
+            href="https://github.com/SwetaTheBest"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/in/sweta-the-best/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >LinkedIn</a
+          >
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>
